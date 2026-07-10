@@ -78,20 +78,6 @@ Mood        : clean logic + neon motion + practical imagination
 
 ---
 
-## GitHub Motion
-
-<div align="center">
-
-![Eunha's GitHub stats](https://github-readme-stats.vercel.app/api?username=eun346&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&icon_color=B14CFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eun346&layout=compact&hide_border=true&bg_color=0D1117&title_color=809DFF&text_color=FFFFFF)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=eun346&theme=tokyonight&hide_border=true&ring=00E5FF&fire=B14CFF&currStreakLabel=FFFFFF)
-
-</div>
-
----
-
 <div align="center">
 
 ### Contact Me
