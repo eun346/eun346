@@ -12,8 +12,8 @@
 <a href="https://www.instagram.com/eun467choi/">
   <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=E4405F" alt="Instagram" />
 </a>
-<a herf="https://eun346.github.io/eunha_choi/">
-  <img src="https://komarev.com/ghpvc/?username=eun346&label=PROFILE%20VIEWS&color=809dff&style=for-the-badge" alt="profile views" />
+<a href="https://eun346.github.io/eunha_choi/">
+  <img src="https://img.shields.io/badge/Profile-0D1117?style=for-the-badge&logo=githubpages&logoColor=FFFFFF&labelColor=809DFF" alt="Profile" />
 </a>
 </div>
 
